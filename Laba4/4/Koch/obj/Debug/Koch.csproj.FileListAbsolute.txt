@@ -1,0 +1,21 @@
+C:\Users\Sharpe\Desktop\1 Koch\Koch\bin\Debug\Koch.exe.config
+C:\Users\Sharpe\Desktop\1 Koch\Koch\bin\Debug\Koch.exe
+C:\Users\Sharpe\Desktop\1 Koch\Koch\bin\Debug\Koch.pdb
+C:\Users\Sharpe\Desktop\1 Koch\Koch\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Sharpe\Desktop\1 Koch\Koch\obj\Debug\Koch.csprojResolveAssemblyReference.cache
+C:\Users\Sharpe\Desktop\1 Koch\Koch\obj\Debug\Koch.exe
+C:\Users\Sharpe\Desktop\1 Koch\Koch\obj\Debug\Koch.pdb
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba4\1 Koch\Koch\bin\Debug\Koch.exe.config
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba4\1 Koch\Koch\obj\Debug\Koch.exe
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba4\1 Koch\Koch\obj\Debug\Koch.pdb
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba4\1 Koch\Koch\bin\Debug\Koch.exe
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba4\1 Koch\Koch\bin\Debug\Koch.pdb
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba4\1 Koch\Koch\bin\Debug\SmallBasicLibrary.dll
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba4\1 Koch\Koch\obj\Debug\Koch.csprojResolveAssemblyReference.cache
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba3,4\4\Koch\bin\Debug\Koch.exe.config
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba3,4\4\Koch\obj\Debug\Koch.exe
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba3,4\4\Koch\obj\Debug\Koch.pdb
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba3,4\4\Koch\bin\Debug\Koch.exe
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba3,4\4\Koch\bin\Debug\Koch.pdb
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba3,4\4\Koch\bin\Debug\SmallBasicLibrary.dll
+D:\Documents\Уроки\3 Курс\2 семестр\Комп.Граф\Laba3,4\4\Koch\obj\Debug\Koch.csprojResolveAssemblyReference.cache
